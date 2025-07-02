@@ -1,0 +1,22 @@
+Starting Neuro-Adaptive Route Selection...
+
+Source Node: A
+Target Node: G
+Grid Dimensions: 5x5
+Stress-aware heuristic weighting enabled: ✔
+Stress metrics simulated: [eye-tracking drift + head rotation noise]
+
+---- Optimized Path Found ----
+Optimal Path (stress-weighted): A → B → C → F → G
+Total Distance: 4.2 units
+Estimated Cognitive Load: 32.7 (scaled)
+Average Edge Stress: medium
+High-Stress Interchanges: [C → F]
+
+Runtime: 0.0023 seconds
+Memory Usage: 1.5 MB
+A* Nodes Expanded: 27
+Path Length: 5
+------------------------------
+
+Route successfully reconstructed and logged.
